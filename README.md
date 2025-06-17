@@ -1,19 +1,18 @@
-# To-Do List App
+# To-Do List
 
-A minimal and responsive to-do list built with HTML, CSS, and JavaScript.
+A clean and minimal to-do list app built with HTML, CSS, and JavaScript.
+
+## 🔗 Live Demo
+[https://mohiit007.github.io/Todo-list/](https://mohiit007.github.io/Todo-list/)
 
 ## Features
-- Add tasks
-- Mark as complete
-- Delete tasks
-- Simple, clean UI
+- Add and delete tasks
+- Mark tasks as completed
+- Simple UI, responsive design
 
-## Live Demo
-[[https://mohiit007.github.io/todo-list-app](https://mohiit007.github.io/todo-list)
-](https://mohiit007.github.io/Todo-list/)
 ## Author
 Mohit  
-[GitHub @Mohiit007](https://github.com/Mohiit007)
+[GitHub – @Mohiit007](https://github.com/Mohiit007)
 
 ## License
 MIT
