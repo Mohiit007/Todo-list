@@ -9,8 +9,8 @@ A minimal and responsive to-do list built with HTML, CSS, and JavaScript.
 - Simple, clean UI
 
 ## Live Demo
-[https://mohiit007.github.io/todo-list-app](https://mohiit007.github.io/todo-list)
-
+[[https://mohiit007.github.io/todo-list-app](https://mohiit007.github.io/todo-list)
+](https://mohiit007.github.io/Todo-list/)
 ## Author
 Mohit  
 [GitHub @Mohiit007](https://github.com/Mohiit007)
